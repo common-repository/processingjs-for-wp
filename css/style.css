@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+.pjs4wp-title-bar {
+	width: 96%;
+	background-color: #0074a2;
+	color: #FFF !important;
+	display: inline-block;
+	padding-left: 16px;
+	margin-top: 30px;
+}
+.pjs4wp-title-bar h1 {
+	color: #FFF;
+}
+.pjs4wp-subheader-container {
+	width: 96%;
+}
+.pjs4wp-subheader-left {
+	float: left;
+}
+.pjs4wp-subheader-right {
+	float: right;
+	margin-top: 20px;
+}
+.pjs4wp-padding-left {
+	padding-left: 8px;
+}
+.pjs4wp-container {
+	width: 96%;
+	display: inline-block;
+	padding-left: 8px;
+}
+.pjs4wp-bold {
+	font-weight: bold;
+}
